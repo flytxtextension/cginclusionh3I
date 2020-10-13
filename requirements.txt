@@ -1,0 +1,6 @@
+ftputil==3.4
+mysql==0.0.2
+mysql-connector-python-rf==2.2.2
+MySQL-python==1.2.5
+numpy==1.16.4
+pathlib==1.0.1
